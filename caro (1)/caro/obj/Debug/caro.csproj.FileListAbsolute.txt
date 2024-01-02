@@ -1,0 +1,30 @@
+E:\workspace\windowform\caro\caro\bin\Debug\caro.exe.config
+E:\workspace\windowform\caro\caro\bin\Debug\caro.exe
+E:\workspace\windowform\caro\caro\bin\Debug\caro.pdb
+E:\workspace\windowform\caro\caro\obj\Debug\caro.csproj.AssemblyReference.cache
+E:\workspace\windowform\caro\caro\obj\Debug\caro.frm_main.resources
+E:\workspace\windowform\caro\caro\obj\Debug\caro.Properties.Resources.resources
+E:\workspace\windowform\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+E:\workspace\windowform\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+E:\workspace\windowform\caro\caro\obj\Debug\caro.exe
+E:\workspace\windowform\caro\caro\obj\Debug\caro.pdb
+E:\workspace\caro\caro\bin\Debug\caro.exe.config
+E:\workspace\caro\caro\bin\Debug\caro.exe
+E:\workspace\caro\caro\bin\Debug\caro.pdb
+E:\workspace\caro\caro\obj\Debug\caro.csproj.AssemblyReference.cache
+E:\workspace\caro\caro\obj\Debug\caro.frm_main.resources
+E:\workspace\caro\caro\obj\Debug\caro.Properties.Resources.resources
+E:\workspace\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+E:\workspace\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+E:\workspace\caro\caro\obj\Debug\caro.exe
+E:\workspace\caro\caro\obj\Debug\caro.pdb
+C:\Users\DEV\Downloads\caro (1)\caro\bin\Debug\caro.exe.config
+C:\Users\DEV\Downloads\caro (1)\caro\bin\Debug\caro.exe
+C:\Users\DEV\Downloads\caro (1)\caro\bin\Debug\caro.pdb
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.csproj.AssemblyReference.cache
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.frm_main.resources
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.Properties.Resources.resources
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.csproj.GenerateResource.cache
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.exe
+C:\Users\DEV\Downloads\caro (1)\caro\obj\Debug\caro.pdb
